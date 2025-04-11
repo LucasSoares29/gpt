@@ -4,12 +4,6 @@ Este repositório contém diversos notebooks explorando o uso prático de modelo
 
 ---
 
-### 🖼️ `Dall-E.ipynb`
-
-Notebook com implementação direta da API da OpenAI para geração de imagens com o modelo **DALL·E**. Ideal para aplicações criativas que envolvem transformação de texto em imagem.
-
----
-
 ### 📝 `Resumidor lives.ipynb` — **Destaque do Projeto**
 
 Um dos destaques deste repositório. O notebook automatiza o processo de transcrição e resumo de **lives gravadas**:
@@ -19,6 +13,12 @@ Um dos destaques deste repositório. O notebook automatiza o processo de transcr
 - A transcrição completa é enviada ao **GPT-4o**, que gera um resumo coerente e objetivo da live.
 
 Este projeto demonstra o uso avançado da **biblioteca oficial da OpenAI**, combinando modelos distintos em um pipeline funcional.
+
+---
+
+### 🖼️ `Dall-E.ipynb`
+
+Notebook com implementação direta da API da OpenAI para geração de imagens com o modelo **DALL·E**. Ideal para aplicações criativas que envolvem transformação de texto em imagem.
 
 ---
 
